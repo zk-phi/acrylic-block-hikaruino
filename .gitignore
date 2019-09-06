@@ -1,0 +1,7 @@
+*.net
+*-cache.lib
+*.stl
+*.kicad_pcb-bak
+*.bak
+fp-lib-table
+
