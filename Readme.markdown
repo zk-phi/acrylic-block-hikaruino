@@ -4,6 +4,13 @@ pixiv FACTORY のアクリルブロックを光らせるのにちょうどいい
 
 前面にフルカラー LED が５個付いています。
 
+![Front](imgs/hikaruino-F.png)
+![Back](imgs/hikaruino-B.png)
+
+部品実装イメージ
+
+![Parts](imgs/hikaruino-parts.png)
+
 https://booth.pm/ja/items/1530537
 
 内輪ネタです。
